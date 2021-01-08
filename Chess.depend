@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1610067367 source:c:\users\louai zahran\onedrive\desktop\chess\1.c
+	<stdio.h>
+	<stdlib.h>
+
+1610071222 source:c:\users\louai zahran\onedrive\desktop\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1610070158 source:c:\users\louai zahran\onedrive\desktop\chess\2.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
+1610071223 source:c:\users\louai zahran\onedrive\desktop\chess\saving.c
+	<stdio.h>
+	<windows.h>
+
