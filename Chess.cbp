@@ -31,16 +31,19 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="1.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="2.c">
+		<Unit filename="Checks.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="saving.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utils.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

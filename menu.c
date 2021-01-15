@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void chooseMode();
+
 //-----------main menu----------//
 void selectFromMainMenu(){
     int n=0;
