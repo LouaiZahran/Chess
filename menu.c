@@ -52,7 +52,6 @@ void chooseTime(){
         printf("\n enter increment if you want(0 for no increment)~cant be negative~:");
         scanf("%d",&increment);
     }
-    //enter the gmae here
 }
 void selectFromChooseMode(){
     int n=0;
